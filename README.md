@@ -5,9 +5,7 @@
 >A creative brightness animation, which controls the brightness of the mobile phone screen by swiping up and down. The animation changes from the sun (the day is bright) to the moon (the night is dark), a very beautiful screen brightness animation!
 
 ## Design sketch
-![2020-05-03 01_00_28.gif](https://github.com/zhangchaojiong/VideoProgressView/blob/master/image/2788235-f057d49c96baa63d.gif)
-
-![2020-05-05 18_09_07.gif](https://github.com/zhangchaojiong/VideoProgressView/blob/master/image/2788235-cd0a98eda6c1c711.gif)
+![2020-05-03 01_00_28.gif](https://github.com/zhangchaojiong/VideoProgressView/blob/master/image/2788235-f057d49c96baa63d.gif)![2020-05-05 18_09_07.gif](https://github.com/zhangchaojiong/VideoProgressView/blob/master/image/2788235-cd0a98eda6c1c711.gif)
 
 
 ## Usage：
