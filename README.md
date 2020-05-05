@@ -1,7 +1,7 @@
 # LightProgressView + VolumeProgressView
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-[Englist](https://github.com/zhangchaojiong/VideoProgressView/edit/master/README.md) | [中文版本](https://github.com/zhangchaojiong/VideoProgressView/edit/master/README_zh.md)
+[Englist](https://github.com/zhangchaojiong/VideoProgressView/blob/master/README.md) | [中文版本](https://github.com/zhangchaojiong/VideoProgressView/blob/master/README_zh.md)
 >A creative brightness animation, which controls the brightness of the mobile phone screen by swiping up and down. The animation changes from the sun (the day is bright) to the moon (the night is dark), a very beautiful screen brightness animation!
 
 ## Design sketch
