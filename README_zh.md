@@ -1,6 +1,6 @@
 # LightProgressView + VolumeProgressView
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![java](https://img.shields.io/badge/language-java-Borange.svg)  ![java](https://img.shields.io/badge/version-1.0.0-orange.svg)
 
 [Englist](https://github.com/zhangchaojiong/VideoProgressView/blob/master/README.md) | [中文版本](https://github.com/zhangchaojiong/VideoProgressView/blob/master/README_zh.md)
 >一种创意的亮度动画，可通过上下滑动来控制手机屏幕的亮度。 动画从太阳（白天是明亮的）到月亮（夜晚是黑暗的）变化，一个非常漂亮的屏幕亮度动画！
