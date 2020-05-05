@@ -84,7 +84,7 @@ VolumeProgressView 自定义参数：
 ```
 
 ## 详细解析
-* [wiki](https://www.jianshu.com/p/55e7de12451d) 
+* [wiki](https://github.com/zhangchaojiong/VideoProgressView/wiki) 
 * [博客地址](https://www.jianshu.com/p/55e7de12451d) 
 
 ## 版权声明
