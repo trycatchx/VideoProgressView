@@ -6,9 +6,9 @@
 >一种创意的亮度动画，可通过上下滑动来控制手机屏幕的亮度。 动画从太阳（白天是明亮的）到月亮（夜晚是黑暗的）变化，一个非常漂亮的屏幕亮度动画！
 
 ## 效果演示：
-![2020-05-03 01_00_28.gif](https://upload-images.jianshu.io/upload_images/2788235-f057d49c96baa63d.gif?imageMogr2/auto-orient/strip)
+![1.gif](https://upload-images.jianshu.io/upload_images/2788235-f057d49c96baa63d.gif?imageMogr2/auto-orient/strip)
 
-![2020-05-05 18_09_07.gif](https://upload-images.jianshu.io/upload_images/2788235-cd0a98eda6c1c711.gif?imageMogr2/auto-orient/strip)
+![2.gif](https://upload-images.jianshu.io/upload_images/2788235-cd0a98eda6c1c711.gif?imageMogr2/auto-orient/strip)
 
 
 ## 如何使用：
