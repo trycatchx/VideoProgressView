@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="LightProgressView">
+        <attr name="lpv_halo_height" format="dimension" />
+        <attr name="lpv_halo_width" format="dimension" />
+        <attr name="lpv_num_of_halo" format="integer" />
+        <attr name="lpv_magicnum" format="float" />
+        <attr name="lpv_moon_color" format="color" />
+        <attr name="lpv_halo_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="VolumeProgressView">
+        <attr name="vpv_halo_height" format="dimension" />
+        <attr name="vpv_halo_width" format="dimension" />
+        <attr name="vpv_num_of_halo" format="integer" />
+        <attr name="vpv_volume_low" format="integer" />
+        <attr name="vpv_volume_medium" format="integer" />
+        <attr name="vpv_volume_high" format="integer" />
+        <attr name="vpv_halo_color" format="color" />
+    </declare-styleable>
+
+
+</resources>

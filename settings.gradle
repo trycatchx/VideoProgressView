@@ -1,0 +1,3 @@
+rootProject.name='LightProgressView'
+include ':app'
+include ':videoprogressview'

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    >
+
+    <com.cj.videoprogressview.LightProgressView
+        android:id="@+id/lpv"
+        android:padding="10dp"
+        android:background="@drawable/bg_center_window"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        app:lpv_halo_color="@android:color/white"
+        app:lpv_moon_color="@android:color/white"
+        app:lpv_halo_height="7dp"
+        app:lpv_halo_width="2dp"
+        />
+    <com.cj.videoprogressview.VolumeProgressView
+        android:id="@+id/vpv"
+        android:layout_marginLeft="3dp"
+        android:padding="10dp"
+        android:background="@drawable/bg_center_window"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        app:vpv_halo_color="@android:color/white"
+        app:vpv_halo_height="7dp"
+        app:vpv_halo_width="2dp"
+        />
+
+
+</LinearLayout>
