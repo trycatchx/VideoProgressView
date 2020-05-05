@@ -82,7 +82,7 @@ implementation 'com.cj.videoprogressview:progressview:1.0.0'
 ```
 
 ## Deductive Reasoning
-goto [wiki home](https://www.jianshu.com/p/55e7de12451d) 
+goto [wiki home](https://github.com/zhangchaojiong/VideoProgressView/wiki) 
 
 ## License
 
