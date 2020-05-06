@@ -80,6 +80,12 @@ implementation 'com.cj.videoprogressview:progressview:1.0.0'
         <attr format="color" name="vpv_halo_color"/>
     </declare-styleable>
 ```
+```
+//Set progress to control animation
+(LightProgressView)findViewById(R.id.lpv).setProgress(0.5f);
+(VolumeProgressView)findViewById(R.id.vpv).setProgress(0.6f);
+```
+
 
 ## Deductive Reasoning
 * [wiki](https://github.com/zhangchaojiong/VideoProgressView/wiki) 
