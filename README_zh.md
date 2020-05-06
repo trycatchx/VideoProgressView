@@ -43,6 +43,11 @@ implementation 'com.cj.videoprogressview:progressview:1.0.0'
         app:vpv_halo_width="2dp"
         />
 ```
+```
+//设置当前的进度，控制动画的变化
+(LightProgressView)findViewById(R.id.lpv).setProgress(0.5f);
+(VolumeProgressView)findViewById(R.id.vpv).setProgress(0.6f);
+```
 
 ## 可使用的参数解析 
 LightProgressView 自定义参数：
