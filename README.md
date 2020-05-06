@@ -42,6 +42,11 @@ implementation 'com.cj.videoprogressview:progressview:1.0.0'
         app:vpv_halo_width="2dp"
         />
 ```
+```
+//Set progress to control animation
+(LightProgressView)findViewById(R.id.lpv).setProgress(0.5f);
+(VolumeProgressView)findViewById(R.id.vpv).setProgress(0.6f);
+```
 
 ## Styleable 
 
@@ -79,11 +84,6 @@ implementation 'com.cj.videoprogressview:progressview:1.0.0'
         //The color of the halo
         <attr format="color" name="vpv_halo_color"/>
     </declare-styleable>
-```
-```
-//Set progress to control animation
-(LightProgressView)findViewById(R.id.lpv).setProgress(0.5f);
-(VolumeProgressView)findViewById(R.id.vpv).setProgress(0.6f);
 ```
 
 
