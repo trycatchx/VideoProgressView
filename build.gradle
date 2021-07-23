@@ -3,12 +3,13 @@
 buildscript {
     
     repositories {
+        mavenCentral()
         google()
         jcenter()
         
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.6.1'
+        classpath 'com.android.tools.build:gradle:4.0.1'
         
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -18,9 +19,17 @@ buildscript {
 
 allprojects {
     repositories {
+        mavenCentral()
         google()
         jcenter()
-        
+
+    }
+
+    ext {
+        artifact = 'videoprogressview'
+        libraryName = 'videoprogressview-sdk'
+        libraryDescription = 'custom view'
+        libraryVersion = '1.1.1'
     }
 }
 

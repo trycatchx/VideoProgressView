@@ -9,11 +9,16 @@
 
 
 ## Usage：
-* Setting up the dependency
+* Setting up the dependency by mavenCentral()
+
+
+~~implementation 'com.cj.videoprogressview:progressview:1.0.0'~~
 
 ```
-implementation 'com.cj.videoprogressview:progressview:1.0.0'
+implementation 'io.github.zhangchaojiong:videoprogressview:1.1.1'
 ```
+
+
 * Simple use cases will look something like this:
 
 ```

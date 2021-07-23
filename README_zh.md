@@ -10,11 +10,15 @@
 
 
 ## 如何使用：
-* 加入 gradle 依赖
+* 加入 gradle 依赖  mavenCentral()
+
+
+~~implementation 'com.cj.videoprogressview:progressview:1.0.0'~~
 
 ```
-implementation 'com.cj.videoprogressview:progressview:1.0.0'
+implementation 'io.github.zhangchaojiong:videoprogressview:1.1.1'
 ```
+
 * 在 xml 加入相应的动画:
 
 ```
